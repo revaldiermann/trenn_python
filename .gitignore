@@ -1,1 +1,14 @@
 venv/
+# Abaikan folder foto dan musik
+foto/
+album/
+musik.mp3
+
+# Abaikan file cache dan setting editor
+__pycache__/
+.vscode/
+foto/
+album/
+musik.mp3
+__pycache__/
+.vscode/
