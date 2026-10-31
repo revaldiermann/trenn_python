@@ -9,7 +9,7 @@ __pycache__/
 .vscode/
 foto/
 album/
-assets/
+# assets/
 musik.mp3
 __pycache__/
 .vscode/
